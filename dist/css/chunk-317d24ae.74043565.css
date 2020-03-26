@@ -1,0 +1,1 @@
+#stbwow .table.b-table>tbody>tr>td:nth-child(6),#stbwow .table.b-table>tbody>tr>td:nth-child(8),#stbwow .table.b-table>tfoot>tr>th:nth-child(6),#stbwow .table.b-table>tfoot>tr>th:nth-child(8),#stbwow .table.b-table>thead>tr>th:nth-child(6),#stbwow .table.b-table>thead>tr>th:nth-child(8){background-color:#eee}#stbwow{max-height:calc(100vh - 160px);height:calc(100vh - 160px)}
